@@ -41,3 +41,11 @@ app.listen({ port: 3333 }, (err, address) => {
   }
   console.log(`Servidor iniciado porta: ${address}`)
 })
+
+
+// https://blog.avneesh.tech/payments-in-next
+
+// https://dev.to/byteslash/stripe-checkout-with-next-js-the-complete-guide-3i1
+
+
+// https://checkout.stripe.com/c/pay/cs_test_a1wK2HGPh5cGnl66OUVMcLHiPIW0LUf6vadfCUREJy4SFsx2VaWhXs1Yoo#fidkdWxOYHwnPyd1blpxYHZxWjA0S2ZxdEdNb05WXVJ2TkNQPW93YTw3bU9SQ3RgS2hIbkg9VUZgaURSZml1YFZTaFxIbk1DaHdwYn1jZGJxMF1sUTNJQDFBXHVBUF1uU3ZAZ3QzVV01NkFKNTU8d3JsXFc2YicpJ2N3amhWYHdzYHcnP3F3cGApJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl
